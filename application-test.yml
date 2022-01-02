@@ -1,2 +1,2 @@
-hello git
-goodmorning
+config:
+  info: main  application-test.yml version=1
