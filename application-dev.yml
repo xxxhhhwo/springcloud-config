@@ -1,2 +1,6 @@
 config:
+<<<<<<< HEAD
   info: "main  application-dev.yml version=3 data=19:19"
+=======
+  info: "main  application-dev.yml version=2"
+>>>>>>> 8c56f5eff97c78c7557b3d4cd27e68c5e90c10fd
