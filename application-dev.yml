@@ -1,3 +1,2 @@
-hello world
-yes you say was right  
-world need us to say hello.
+config:
+  info: main  application-dev.yml version=1

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello git
 <<<<<<< HEAD
 today is a new dat
@@ -6,3 +7,7 @@ asd y
 =======
 goodmorning
 >>>>>>> 0400ab4c6e8896ec847d663707ba47874fe82b34
+=======
+config:
+  info: main  application-test.yml version=1
+>>>>>>> befc377a8e8047fc83b2cd206eb34afd487f851b
